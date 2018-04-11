@@ -1,0 +1,11 @@
+c:\users\jomari albert\source\repos\Umbra\Umbra\bin\Debug\netcoreapp2.0\Umbra.deps.json
+c:\users\jomari albert\source\repos\Umbra\Umbra\bin\Debug\netcoreapp2.0\Umbra.runtimeconfig.json
+c:\users\jomari albert\source\repos\Umbra\Umbra\bin\Debug\netcoreapp2.0\Umbra.runtimeconfig.dev.json
+c:\users\jomari albert\source\repos\Umbra\Umbra\bin\Debug\netcoreapp2.0\Umbra.dll
+c:\users\jomari albert\source\repos\Umbra\Umbra\bin\Debug\netcoreapp2.0\Umbra.pdb
+c:\users\jomari albert\source\repos\Umbra\Umbra\obj\Debug\netcoreapp2.0\Umbra.csprojResolveAssemblyReference.cache
+c:\users\jomari albert\source\repos\Umbra\Umbra\obj\Debug\netcoreapp2.0\Umbra.csproj.CoreCompileInputs.cache
+c:\users\jomari albert\source\repos\Umbra\Umbra\obj\Debug\netcoreapp2.0\Umbra.AssemblyInfoInputs.cache
+c:\users\jomari albert\source\repos\Umbra\Umbra\obj\Debug\netcoreapp2.0\Umbra.AssemblyInfo.cs
+c:\users\jomari albert\source\repos\Umbra\Umbra\obj\Debug\netcoreapp2.0\Umbra.dll
+c:\users\jomari albert\source\repos\Umbra\Umbra\obj\Debug\netcoreapp2.0\Umbra.pdb

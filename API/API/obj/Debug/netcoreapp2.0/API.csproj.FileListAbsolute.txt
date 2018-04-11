@@ -1,0 +1,14 @@
+C:\Users\Jomari Albert\source\repos\API\API\bin\Debug\netcoreapp2.0\API.deps.json
+C:\Users\Jomari Albert\source\repos\API\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.json
+C:\Users\Jomari Albert\source\repos\API\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.dev.json
+C:\Users\Jomari Albert\source\repos\API\API\bin\Debug\netcoreapp2.0\API.dll
+C:\Users\Jomari Albert\source\repos\API\API\bin\Debug\netcoreapp2.0\API.pdb
+C:\Users\Jomari Albert\source\repos\API\API\obj\Debug\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Jomari Albert\source\repos\API\API\obj\Debug\netcoreapp2.0\API.AssemblyInfoInputs.cache
+C:\Users\Jomari Albert\source\repos\API\API\obj\Debug\netcoreapp2.0\API.AssemblyInfo.cs
+C:\Users\Jomari Albert\source\repos\API\API\obj\Debug\netcoreapp2.0\API.dll
+C:\Users\Jomari Albert\source\repos\API\API\obj\Debug\netcoreapp2.0\API.pdb
+c:\users\jomari albert\source\repos\API\API\obj\Debug\netcoreapp2.0\API.csprojResolveAssemblyReference.cache
+C:\Users\Jomari Albert\source\repos\API\API\bin\Debug\netcoreapp2.0\DataAccess.dll
+C:\Users\Jomari Albert\source\repos\API\API\bin\Debug\netcoreapp2.0\DataAccess.pdb
+C:\Users\Jomari Albert\source\repos\API\API\obj\Debug\netcoreapp2.0\API.csproj.CopyComplete
